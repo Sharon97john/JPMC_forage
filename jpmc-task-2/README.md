@@ -1,2 +1,7 @@
 # JPMC Task 2
-Starter repo for task 2 of JPMC's Forage program
+# Purpose
+To continously stream data and show graph
+
+# Changes
+- updated App.tsx setInterval to continuously get data
+- show graph with appropriate data with label 
